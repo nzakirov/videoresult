@@ -1,3 +1,3 @@
 # videoresult
 
-<video src='test2.mp4' width=480/>
+<video src='test2.mp4'/>
